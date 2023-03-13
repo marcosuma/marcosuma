@@ -1,8 +1,8 @@
-# Hi there 👋
-
-😄 Pronouns: he/him
+<h3 align="center"> Hi there 👋, I'm <a href="https://marcosuma.com/">Marco</a> </h3>
 
 ## ⭐️ About me
+
+😄 Pronouns: he/him
 
 I am a [senior software engineer](https://marcosuma.com) with 11+ years of professional experience. 
 
@@ -14,6 +14,11 @@ I am a [senior software engineer](https://marcosuma.com) with 11+ years of profe
 
 🎓 I graduated in Computer Science Engineering @ Polytechnic of Bari (Italy) in 2014 - 
 ([Google Scholar](https://scholar.google.com/citations?user=DDkkRasAAAAJ&hl=en))
+
+❤️ I love:
+- 🍕 cooking food
+- 📷 with my drone Mavic Air 2s
+- 🎹 composing electronic and pop music
 
 🔭 I’m currently working on different projects, mostly related to AI, algorithmic trading and web3.
 👯 I’m looking to collaborate on these fields if you are interested!
