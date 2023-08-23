@@ -4,7 +4,7 @@
 
 😄 Pronouns: he/him
 
-I am a [senior software engineer](https://marcosuma.com) with 11+ years of professional experience. 
+I am an [engineering manager](https://marcosuma.com) with 11+ years of professional experience. 
 
 💼 I worked in:
 - Computer vision, Machine Learning and Artificial Intelligence
